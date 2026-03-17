@@ -1,0 +1,21 @@
+//i have no idea what is this copilot generated it
+# Java build output
+/bin/
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# Java tooling
+.classpath
+.project
+.settings/
