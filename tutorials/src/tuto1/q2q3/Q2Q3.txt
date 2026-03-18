@@ -1,0 +1,27 @@
+2. 
+output:
+(1) Performs Person's tasks
+(2) Invoke Employee's overloaded constructor
+(3) Performs Employee's tasks 
+(4) Performs Faculty's tasks
+
+explanation:
+In main method, Faculty's constructor is called
+super() is called implicitly, which calls Employee class's no argument constructor
+(no implicit super() because this(___) can also be the first statement of the constructor)
+this("(2) Invoke Employee's overloaded constructor") calls Employee(String s) constructor
+super() is called implicitly, which calls person's no argument constructor
+(1) is printed
+back to Employee(String s), (2) is printed
+back to Employee(), (3) is printed
+back to Faculty(), (4) is printed
+
+3.
+answer: a. AB
+explanation: 
+at System.out.print(o[0]); 
+toString() is called by System.out.print
+toString() is overridden by toString() of class A
+at System.out.print(o[1]);
+toString() is called by System.out.print
+toString() is overridden by toString() of class B
