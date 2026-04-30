@@ -1,4 +1,4 @@
-package tuto1.q4;
+package hi.tuto.tuto1.q4;
 
 abstract class Vehicle {
     private double maxSpeed;

@@ -1,4 +1,4 @@
-package tuto1.q5;
+package hi.tuto.tuto1.q5;
 
 public class BankAccount implements Account{
     private int balance;

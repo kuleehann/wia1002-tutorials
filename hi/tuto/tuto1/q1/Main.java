@@ -1,4 +1,4 @@
-package tuto1.q1;
+package hi.tuto.tuto1.q1;
 
 //make sure the second arg has 8 numbers lol this thing aint advanced i lazy
 

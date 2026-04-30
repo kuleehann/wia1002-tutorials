@@ -1,4 +1,4 @@
-package tuto1.q1;
+package hi.tuto.tuto1.q1;
 
 public class Telephone {
     private int areaCode;

@@ -1,4 +1,4 @@
-package tuto1.q5;
+package hi.tuto.tuto1.q5;
 
 public interface Account { //everything should be public static final?
     public int test = 1; //it assumes it's a constant liao
